@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+  <PersonalityInfo>
+    <Option>
+      <Option Name="Personality">Default.Personality</Option>
+      <Option Name="ProjectType"></Option>
+      <Option Name="Version">1.0</Option>
+      <Option Name="GUID">{93C642F7-3A14-4F51-8209-B03C6F8C05B4}</Option>
+    </Option>
+  </PersonalityInfo>
+  <Default.Personality>
+    
+    <Projects>
+      <Projects Name="DllMouse.dll">DllMouse.bdsproj</Projects>
+      <Projects Name="UseMouse.exe">UseMouse.bdsproj</Projects>
+      <Projects Name="Targets">DllMouse.dll UseMouse.exe</Projects>
+    </Projects>
+    <Dependencies/>
+  </Default.Personality>
+</BorlandProject>
